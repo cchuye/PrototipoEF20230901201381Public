@@ -1,0 +1,12 @@
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Administracion\ComprasCxp\CapaModeloComprasCXP\bin\Debug\CapaModeloComprasCXP.dll
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Administracion\ComprasCxp\CapaModeloComprasCXP\bin\Debug\CapaModeloComprasCXP.pdb
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Administracion\ComprasCxp\CapaModeloComprasCXP\obj\Debug\CapaModeloComprasCXP.csproj.AssemblyReference.cache
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Administracion\ComprasCxp\CapaModeloComprasCXP\obj\Debug\CapaModeloComprasCXP.csproj.CoreCompileInputs.cache
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Administracion\ComprasCxp\CapaModeloComprasCXP\obj\Debug\CapaModeloComprasCXP.dll
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Administracion\ComprasCxp\CapaModeloComprasCXP\obj\Debug\CapaModeloComprasCXP.pdb
+C:\Users\Doris\Desktop\Examen Final\ComprasCxp\CapaModeloComprasCXP\bin\Debug\CapaModeloComprasCXP.dll
+C:\Users\Doris\Desktop\Examen Final\ComprasCxp\CapaModeloComprasCXP\bin\Debug\CapaModeloComprasCXP.pdb
+C:\Users\Doris\Desktop\Examen Final\ComprasCxp\CapaModeloComprasCXP\obj\Debug\CapaModeloComprasCXP.csproj.AssemblyReference.cache
+C:\Users\Doris\Desktop\Examen Final\ComprasCxp\CapaModeloComprasCXP\obj\Debug\CapaModeloComprasCXP.csproj.CoreCompileInputs.cache
+C:\Users\Doris\Desktop\Examen Final\ComprasCxp\CapaModeloComprasCXP\obj\Debug\CapaModeloComprasCXP.dll
+C:\Users\Doris\Desktop\Examen Final\ComprasCxp\CapaModeloComprasCXP\obj\Debug\CapaModeloComprasCXP.pdb

@@ -1,0 +1,8 @@
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\bin\Debug\Controlador_MenuHCV.dll
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\bin\Debug\Controlador_MenuHCV.pdb
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\bin\Debug\eCryptography.dll
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\obj\Debug\Controlador_MenuHCV.csproj.AssemblyReference.cache
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\obj\Debug\Controlador_MenuHCV.csproj.CoreCompileInputs.cache
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\obj\Debug\Controlador_MenuHCV.csproj.CopyComplete
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\obj\Debug\Controlador_MenuHCV.dll
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\obj\Debug\Controlador_MenuHCV.pdb
